@@ -23,3 +23,5 @@ INSTRUCIONES DE INSTALACIÓN:
     📃 Discord: https://discord.gg/EC6tmctpzZ
 
     🌟 SI TE GUSTA DAME UNA ESTRELLITA!
+
+![unknown](https://cdn.discordapp.com/attachments/1005910521419157594/1005914216496124036/unknown.png?size=4096)
