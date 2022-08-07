@@ -18,8 +18,8 @@ INSTRUCIONES DE INSTALACIÓN:
 
 (RECUERDA INICIAR LA CARPETA EN EL server.cfg. EJEMPLO: ensure [voz] para toda la carpeta. PARA UN SCRIPT EN ESPECIFICO, EJEMPLO: ensure mumble-voip)
 
-   🥥 Creditos: Aleeex_AG#9239
+    🥥 Creditos: Aleeex_AG#9239
 
-   📃 Discord: https://discord.gg/EC6tmctpzZ
+    📃 Discord: https://discord.gg/EC6tmctpzZ
 
-   🌟 SI TE GUSTA DAME UNA ESTRELLITA!
+    🌟 SI TE GUSTA DAME UNA ESTRELLITA!
